@@ -10,7 +10,7 @@ import configparser
 
 # Read API credentials and email information from config file
 config = configparser.ConfigParser()
-config.read('/dhl_details.txt')
+config.read('/details/dhl_details.txt')
 
 # DHL API credentials
 api_key = config.get('DHL', 'API_KEY')
