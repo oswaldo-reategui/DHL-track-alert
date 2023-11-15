@@ -2,7 +2,9 @@
 
 ## Introduction
 
-This repository contains a Python script for a DHL Package Tracking Bot. The script automates tracking DHL shipments and notifies the user via email about status updates. It's designed to continuously check the shipment status and send real-time updates, making it an efficient tool for closely monitoring important deliveries.
+This repository contains a Python script for a DHL Package Tracking Bot. The script automates tracking DHL shipments and notifies the user via email about status updates. It's designed to continuously check the shipment status and send real-time updates, making it an efficient tool for closely monitoring important deliveries and streamlining the process of package tracking.
+
+![gif_07](https://github.com/oswaldo-reategui/DHL-track-alert/assets/59293697/32e957a5-1665-417a-959c-934d6abe58c0)
 
 ## Features
 
