@@ -1,0 +1,9 @@
+[DHL]
+API_KEY = [Your API Key]
+API_SECRET = [Your API Secret]
+TRACKING_NUMBER = 1234567890
+
+[Email]
+SENDER_EMAIL = [Your sender email]
+SENDER_PASSWORD = [Your sender email password]
+RECIPIENT_EMAIL = [Your email]
