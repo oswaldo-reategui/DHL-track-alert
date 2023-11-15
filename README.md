@@ -37,15 +37,14 @@ Run the script using Python:
 `
 python TrackingBot_DHL.py
 `
-
 The script will start tracking the package and send email updates on status changes.
 
 ## Code Overview
 
 ### Main Functionalities
-**API Communication:** Interacts with DHL's tracking API to retrieve shipment status.
-**Email Alert System:** Composes and sends HTML formatted emails with the latest tracking information.
-**Continuous Monitoring:** Runs in a loop, periodically checking for updates.
+- **API Communication:** Interacts with DHL's tracking API to retrieve shipment status.
+- **Email Alert System:** Composes and sends HTML formatted emails with the latest tracking information.
+- **Continuous Monitoring:** Runs in a loop, periodically checking for updates.
 
 ### Error Handling
 Implements try-except blocks to handle potential issues during API requests and data processing.
